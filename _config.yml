@@ -1,9 +1,9 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
+title: Friday Movies
 email: youremail@xyz.com
-description: Some text about your blog.
-baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
-url: "https://www.rossener.com" # the base hostname & protocol for your site
+description: ดูหนังกันวันศุกร์แล้วพวกเรา!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
