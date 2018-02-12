@@ -26,7 +26,7 @@ layout: main
                         {% include date.html date=post.date %}
                     </time>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                        <h2 class="post-title" itemprop="name">
+                        <h2 class="post-title" itemprop="name" style="font-family:Prompt">
                             {{ post.title }}
                         </h2>
                     </a>
