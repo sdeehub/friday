@@ -26,7 +26,8 @@ highlighter: rouge
 permalink: /:title/
 
 # Plugins
-gems:
+# gems:
+plugins:
   - jemoji
 
 # Links to include in menu navigation
