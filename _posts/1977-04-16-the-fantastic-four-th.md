@@ -13,10 +13,7 @@ introduction: ต้องหามาดูให้ได้ไม่วัน
 ---
 สำหรับตอนนี้ลองดูหนังตัวอย่างกันไปก่อนได้เลยครัเลยครับพรรคพวก
 
-<div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe style="width:100%;height:100%;position:absolute;top:0;left:0;" src="https://www.youtube.com/embed/6G5pyFhmAqE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-</iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qHsy81lJi5E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 -----
 
