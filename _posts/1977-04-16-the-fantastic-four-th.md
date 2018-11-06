@@ -6,8 +6,6 @@ image: 'https://res.cloudinary.com/sdees-reallife/image/upload/c_fill,h_399,w_76
 description: จำหนังเรื่องนี้ได้ลางๆ แต่จำ มือโต หูกาง ตูดแหลม ได้เป็นอย่างดี
 category: 'life'
 tags:
-- life
-- tips
 twitter_text: Twitter text frontmatter
 introduction: ถ้าดูจากวันที่ที่หนังเข้าฉายคงจะเป็นช่วงสงกรานต์ของปี 2520
 ---
