@@ -3,12 +3,12 @@ title: Friday Movies
 email: youremail@xyz.com
 description: ดูหนังกันวันศุกร์แล้วพวกเรา!
 baseurl: "/friday" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "http://sdeehub.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: FridayMovies
-user_description: Some text about you.
+username: friday
+user_description: เย็นวันศุกร์ต้องทำอะไร? ถ้าไม่ใช่ดูหนังกับฟังเพลง - Yeah! วันศุกร์อีกแล้วพวกเรา
 disqus_username: disqus_username
 
 # Social Media
