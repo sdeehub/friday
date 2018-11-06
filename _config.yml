@@ -1,7 +1,7 @@
 # Site Settings
-title: Friday Movies
+title: friday.sdee.co
 email: youremail@xyz.com
-description: ดูหนังกันวันศุกร์แล้วพวกเรา!
+description: ดูหนัง-ฟังเพลงกัน วันศุกร์แล้วพวกเรา!
 baseurl: "/friday" # the subpath of your site, e.g. /blog
 url: "http://sdeehub.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
