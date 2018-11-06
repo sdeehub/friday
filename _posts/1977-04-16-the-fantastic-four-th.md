@@ -3,7 +3,7 @@ layout: post
 title: "ยอดมนุษย์คอมพิวเตอร์"
 date: 1977-04-16 11:35:40
 image: 'https://res.cloudinary.com/sdees-reallife/image/upload/c_fill,h_399,w_760/v1521962274/the-fantastic-four-th.jpg'
-description: จำหนังเรื่องนี้ได้ลางๆ แต่จำ มือโต หูกาง ตูดแหลม ได้เป็นอย่างดี
+description: จำหนังเรื่องนี้ได้ลางๆ แต่จำ มือโต หูกาง ตูดแหลม ขี้มูกมาก ได้เป็นอย่างดี
 category: 'life'
 tags:
 twitter_text: Twitter text frontmatter
