@@ -1,13 +1,13 @@
 # Site Settings
-title: friday.sdee.co
-email: youremail@xyz.com
+title: friday.hey.movies
+email: odd.daboss@gmail.com
 description: ดูหนัง-ฟังเพลงกัน วันศุกร์แล้วพวกเรา!
 baseurl: "/friday" # the subpath of your site, e.g. /blog
 url: "http://sdeehub.github.io" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-91253622-9"
 
 # User Settings
-username: friday.sdee.co
+username: friday.hey.movies
 user_description: เย็นวันศุกร์ต้องทำอะไร? ถ้าไม่ใช่ดูหนังกับฟังเพลง - Yeah! วันศุกร์อีกแล้วพวกเรา
 disqus_username: disqus_username
 
