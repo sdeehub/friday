@@ -7,9 +7,9 @@ description: จำหนังเรื่องนี้ได้ลางๆ 
 category: 'life'
 tags:
 twitter_text: Twitter text frontmatter
-introduction: ถ้าดูจากวันที่ที่หนังเข้าฉายคงจะเป็นช่วงสงกรานต์ของปี 2520
+introduction: เราจะสร้างเขาขึ้นมาใหม่ให้ดีกว่า เหนือกว่า
 ---
-มาย้อนกลับไปในปี 2520 ดูกันว่าเทคนิคในการทำหนังสมัยนั้นล้ำยุคขนาดไหน ขอบคุณพี่ยอดชาย หล่อได้ใจจริงๆ - แล้วก็มีลุงโกร่ง กางเกงแดง, จำรูญ หนวดจิ๋ม มั๊ยนะ?
+ถ้าดูจากวันที่ที่หนังเข้าฉายคงจะเป็นช่วง [สงกรานต์ของปี 2520](http://softbizplus.com/computer/503-yod-manut-computer) - มาย้อนกลับไปในปี 2520 ดูกันว่าเทคนิคในการทำหนังสมัยนั้นล้ำยุคขนาดไหน เสียดายที่ไม่ได้ดูในโรงสมัยที่หนังเข้าฉาย แต่ได้ดูตอนนี้ก็ยังไม่สาย แล้วอีกสัก 30 ปีข้างหน้า หนังที่เราดูอยู่ในทุกวันนี้จะให้ความรู้สึกยังไง?
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/qHsy81lJi5E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
