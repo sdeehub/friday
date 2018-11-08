@@ -13,4 +13,4 @@ introduction: เราจะสร้างเขาขึ้นมาใหม
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/qHsy81lJi5E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Update: Tue Nov  6 17:25:04 +07 2018
+Tue Nov  6 17:25:04 +07 2018
