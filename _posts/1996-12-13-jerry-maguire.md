@@ -2,7 +2,7 @@
 layout: post
 title: "Jerry Maguire"
 date: 1996-12-13 20:35:40
-image: 'https://res.cloudinary.com/sdees-reallife/image/upload/c_fill,h_399,w_760/v1541661691/jerry.jpg'
+image: 'https://res.cloudinary.com/sdees-reallife/image/upload/c_fit,h_399,w_760/v1541661691/jerry.jpg'
 introduction: Everybody loved him. ... Everybody disappeared. - The rest of his life begins now. - The journey is everything.
 description: จำได้ว่าวันนั้นเราไปดูเรื่องนี้กันที่สยาม
 category: 'life'
