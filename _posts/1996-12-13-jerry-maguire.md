@@ -9,6 +9,10 @@ category:
 tags:
 twitter_text: Twitter text frontmatter
 ---
+จำได้ว่าคนแน่นมากที่หน้าโรง เราสองคนรีบๆ ซื้อตั๋วแล้วก็รีบเข้าไปดู ไม่รู้ที่มาที่ไปของหนังมาก่อนเลย ค่ำนั้นกลับบ้านด้วยความสบาย มีความรักเต็มหัวใจกลับไปทุกๆ คนหลังออกมาจากโรงหนัง
+
+![Poster](https://res.cloudinary.com/sdees-reallife/image/upload/v1541661691/jerry.jpg)
+
 <iframe width="1017" height="763" src="https://www.youtube.com/embed/zTHfZFGoXoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Thu Nov  8 14:42:59 +07 2018
