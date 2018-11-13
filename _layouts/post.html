@@ -26,6 +26,11 @@
                 {% endif %}
 
                 {{ content }}
+
+                {% if page.slider %}
+                  {% include slider.html height="50" unit="%" transition="slide" duration="7" %}
+                {% endif %}
+
             </article>
 
             <div class="progress-bar" data-minutes="{{ totalMinutes }}">
