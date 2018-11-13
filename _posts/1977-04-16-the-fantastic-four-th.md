@@ -3,11 +3,11 @@ layout: post
 title: "ยอดมนุษย์คอมพิวเตอร์"
 date: 1977-04-16 11:35:40
 image: 'https://res.cloudinary.com/sdees-reallife/image/upload/c_fill,h_315,w_600/v1541742064/Screenshot_from_2018-11-09_12-31-07.png'
+introduction: เราจะสร้างเขาขึ้นมาใหม่ให้ดีกว่า เหนือกว่า
 description: จำหนังเรื่องนี้ได้ลางๆ แต่จำ มือโต หูกาง ตูดแหลม ขี้มูกมาก ได้เป็นอย่างดี
-category: 'life'
+category:
 tags:
 twitter_text: Twitter text frontmatter
-introduction: เราจะสร้างเขาขึ้นมาใหม่ให้ดีกว่า เหนือกว่า
 ---
 ถ้าดูจากวันที่ที่หนังเข้าฉายคงจะเป็นช่วง [สงกรานต์ของปี 2520](http://softbizplus.com/computer/503-yod-manut-computer)
 
