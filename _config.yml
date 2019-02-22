@@ -1,14 +1,14 @@
 # Site Settings
-title: friday.hey.movies
+title: friday.movie
 email: odd.daboss@gmail.com
 description: ดูหนัง-ฟังเพลงกัน วันศุกร์แล้วพวกเรา!
-baseurl: "/friday" # the subpath of your site, e.g. /blog
+baseurl: "/friday.movie" # the subpath of your site, e.g. /blog
 url: "https://sdeehub.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-91253622-9"
 
 # User Settings
-username: friday.hey.movies
-user_description: เย็นวันศุกร์ต้องทำอะไร? ถ้าไม่ใช่ดูหนังกับฟังเพลง - Yeah! วันศุกร์อีกแล้วพวกเรา
+username: friday.movie
+user_description: ความทรงจำของคืนวันศุกร์ ความทรงจำของคืนที่ได้ดูหนังสนุกๆ และนี่คือความทรงจำที่จะอยู่กับพวกเรา ... ไปอีกยาวนาน
 disqus_username: disqus_username
 
 # Social Media
