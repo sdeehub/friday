@@ -2,7 +2,7 @@
 layout: post
 title: "Jerry Maguire"
 date: 1996-12-13 20:35:40
-image: 'https://res.cloudinary.com/sdees-reallife/image/upload/c_fill,h_315,w_600/v1541675353/jerry-renee.jpg'
+image: 'https://m.media-amazon.com/images/M/MV5BYTM0ZWNmZTUtOTVkZS00MTZiLTg3M2QtZjA0Y2RmOWM1NWEyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg'
 introduction: Everybody loved him...Everybody disappeared.
 description: จำได้ว่าวันนั้นเราไปดูเรื่องนี้กันที่สยาม
 category:
